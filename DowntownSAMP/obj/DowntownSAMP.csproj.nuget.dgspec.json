@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DowntownSAMP\\DowntownSAMP\\DowntownSAMP.csproj": {}
+  },
+  "projects": {
+    "F:\\DowntownSAMP\\DowntownSAMP\\DowntownSAMP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DowntownSAMP\\DowntownSAMP\\DowntownSAMP.csproj",
+        "projectName": "DowntownSAMP",
+        "projectPath": "F:\\DowntownSAMP\\DowntownSAMP\\DowntownSAMP.csproj",
+        "packagesPath": "C:\\Users\\Muphy\\.nuget\\packages\\",
+        "outputPath": "F:\\DowntownSAMP\\DowntownSAMP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Muphy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.timpotze.nl/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "BCrypt-Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "SampSharp.Core": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "SampSharp.GameMode": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "SampSharp.Streamer": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

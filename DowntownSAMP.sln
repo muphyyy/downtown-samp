@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DowntownSAMP", "DowntownSAMP\DowntownSAMP.csproj", "{4F23B79D-C07B-43D9-A5CF-D156C88BB934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F23B79D-C07B-43D9-A5CF-D156C88BB934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F23B79D-C07B-43D9-A5CF-D156C88BB934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F23B79D-C07B-43D9-A5CF-D156C88BB934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F23B79D-C07B-43D9-A5CF-D156C88BB934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0814496F-22F8-4FD4-B8ED-CAB2F4879134}
+	EndGlobalSection
+EndGlobal
